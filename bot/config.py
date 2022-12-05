@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5618318492:AAEFuSfjAiYu--T7Nq8XbPKwK7kM3UgTPE4"
+    APP_ID = "23669512"
+    API_HASH = "4726162331b02b55d91f77a69cf1a827"
+    DATABASE_URL = "postgres://hdwgcqilequmrd:ca7306b5558144c0a37fa11a7e7965c7b48d6696a3ea5474ac4cd44c0af6af45@ec2-34-230-153-41.compute-1.amazonaws.com:5432/dbqjm5tjmcnk9c"
+    SUDO_USERS = "777000" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "846504089074-2vrpi6ksvmjc1f1ec2gcfjlsd1tilrne.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/playmoviesbot"
 
 
 class BotCommands:
